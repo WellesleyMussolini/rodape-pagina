@@ -30,10 +30,8 @@
  
 - [x] Cadastrar Usuário
 - [x] Fazer Login
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] Realizar pagamentos
+- [x] Alterar o idioma da página
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
 <ul class="contains-task-list">
